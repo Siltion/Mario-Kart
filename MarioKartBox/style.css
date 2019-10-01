@@ -1,0 +1,62 @@
+html {
+    background-color: skyblue;
+    padding: 20px;
+}
+
+body {
+    background-color: white;
+    text-align: center;
+    padding: 75px;
+    margin: 0 auto;
+    width: 700px;
+    border-radius: 50px;
+    border-color: grey;
+    border-width: 5px;
+    border-style: solid;
+}
+
+h1 {
+    font-family: 'Source Serif Pro', serif;
+}
+
+h2 {
+    font-family: 'Source Serif Pro', serif;
+}
+
+h3 {
+    font-family: 'Source Serif Pro', serif;
+    text-align: center;
+    font-size: 25px;
+}
+
+.B1 {
+    background-color: skyblue;
+    border-radius: 2px;
+    width: 250px;
+    height: 55px;
+    border: none;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    opacity: 0.6;
+    transition: 0.3s;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.B1:hover {opacity: 1}
+
+ul {
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    text-align: left;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.redeem {
+    font-style: italic;
+    font-size: 10px;
+}
